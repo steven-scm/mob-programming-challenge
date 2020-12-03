@@ -4,12 +4,12 @@
 
 You've been randomly assigned to a team.
 Pick one member of your team to fork the provided repo : 
-https://github.com/Kostra0ne/mob-programming-challenge
-He/She will invite the other members of the team as collaborators.
-The challenge includes several **iterations**.
-Work as a **team** and pass the **ball**
-When your turn comes, you are the **driver** and the other are the **navigators**.
-Push your code with **explicit** commit messages.
+https://github.com/Kostra0ne/mob-programming-challenge. 
+He/She will invite the other members of the team as collaborators.  
+The challenge includes several **iterations**.  
+Work as a **team** and pass the **ball**. 
+When your turn comes, you are the **driver** and the other are the **navigators**.  
+Push your code with **explicit** commit messages.  
 
 
 ### -------- Iteration 1 --------
@@ -141,10 +141,10 @@ Try to work simultaneously on the next iterations !!!
 ### -------- Iteration 14 (and counting :) --------
 
 
-When done Squad !!!
+When done Squad !!!  
 
-Everybody should pull the last version
-Let's finish the app together :D
+Everybody should pull the last version. 
+Let's finish the app together :D. 
 
 ----->
 
