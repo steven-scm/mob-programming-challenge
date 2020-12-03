@@ -148,7 +148,6 @@ Let's finish the app together :D
 
 ----->
 
-- add a models folder a the project's root
 - add a new file @ models/User.js
 - define our first mongoose Schema
 - create a /bin folder and a seed-users.js file
