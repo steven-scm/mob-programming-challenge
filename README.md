@@ -55,7 +55,7 @@ Push your code with **explicit** commit messages.
 
 - in app.js
 - include the .env configuration
-- then, require the database config file ;)
+- then, require the database config file ;) in app.js
 - then, set the intial config for hbs and public assets
 
 - for the moment, let's **hardcode** 2 arrays
