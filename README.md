@@ -60,12 +60,12 @@ Push your code with **explicit** commit messages.
 
 - for the moment, let's **hardcode** 2 arrays
 - A / const **users** (an array objects)
- - each object has 3 properties:
- - name
- - email
- - favoriteLangage
+  - each object has 3 properties:
+  - name
+  - email
+  - favoriteLangage
 - B / const **images** (an array strings)
- - each string represent the path to an image (see iteration 3)
+  - each string represent the path to an image (see iteration 3)
 
 - listen to the PORT stored in .env
 
