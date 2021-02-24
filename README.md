@@ -23,7 +23,7 @@ Push your code with **explicit** commit messages.
 
 - create a .env file containing:
 - PORT = 8080
-- MONGO_URI = mongodb://localhost/dev-squad-248
+- MONGO_URI = mongodb://localhost/my-dev-squad
 - create /app.js, just print a "Hello, World" message
 - create the hbs layout with the minimal markup
 - add a dev script in package.json to launch the app
