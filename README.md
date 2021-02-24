@@ -1,6 +1,6 @@
 # mob-programming-challenge
 
-## Hey DevSquad 911, let's GIT together !
+## Hey Hackers, let's GIT together !
 
 You've been randomly assigned to a team.
 Pick one member of your team to fork the provided repo : 
