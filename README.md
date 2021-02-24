@@ -25,7 +25,6 @@ Push your code with **explicit** commit messages.
 - PORT = 8080
 - MONGO_URI = mongodb://localhost/my-dev-squad
 - create /app.js, just print a "Hello, World" message
-- create the hbs layout with the minimal markup
 - add a dev script in package.json to launch the app
 
 ### -------- Iteration 3 --------
@@ -40,6 +39,7 @@ Push your code with **explicit** commit messages.
 - /models
 - /config
 
+- create the hbs layout with the minimal markup
 - visit [unsplash.com](https://unsplash.com/) to find 3 nice coding related images
 - download them in the appropriate folder
 
@@ -55,15 +55,15 @@ Push your code with **explicit** commit messages.
 
 - in app.js
 - include the .env configuration
-- then, require the database config file ;) in app.js
+- then, require the database config file in app.js ! (use a relative path)
 - then, set the intial config for hbs and public assets
 
-- for the moment, let's **hardcode** 2 arrays
+- for the moment, let's **hardcode** 2 arrays (we'll deal with database in class)
 - A / const **users** (an array objects)
   - each object has 3 properties:
-  - name
-  - email
-  - favoriteLangage
+    - name
+    - email
+    - favoriteLangage
 - B / const **images** (an array strings)
   - each string represent the path to an image (see iteration 3)
 
