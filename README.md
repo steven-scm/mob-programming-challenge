@@ -30,12 +30,13 @@ Push your code with **explicit** commit messages.
 ### -------- Iteration 3 --------
 
 - create the folders + files structure:
+
 - /views
- - /partials
+  - /partials
 - /public
- - /img
- - /css
- - /js
+  - /img
+  - /css
+  - /js
 - /models
 - /config
 
