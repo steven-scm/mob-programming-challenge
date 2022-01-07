@@ -15,5 +15,6 @@ hbs.registerPartials(__dirname + "/views/partials");
 // Added require
 
 app.use('/', require("./routes/routesIndex"));
+app.use('/api/ironhackers', require("./routes/route.api.js"));
 
 app.listen(process.env.PORT, () => console.log(`listening to port ${process.env.PORT}`));
